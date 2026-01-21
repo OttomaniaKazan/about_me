@@ -1,6 +1,6 @@
 # Portfolio OttomaniaKazan
 
-![my foto](evgen_foto.png)
+![my foto](https://raw.githubusercontent.com/OttomaniaKazan/about_me/main/evgen_foto.png)
 
 Hi! My name is Evgeny Titov.  
 I was born on September 22, 1981 in Kazan, Russia.
